@@ -1,6 +1,7 @@
 {
   "name": "my-project",
   "private": true,
+  "homepage": "https://basavarajaiholli.github.io/react-website/ ",
   "version": "0.0.0",
   "type": "module",
   "scripts": {
